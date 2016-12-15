@@ -1,5 +1,6 @@
 # OpenXRobot
-open robot frameworks
+open robot frameworks <br>
 
-authors: Jimmy, Teng, Macgyver
-package name: org.xrobot.frameworks
+kick off date: 2016.12.15 <br>
+authors: Jimmy, Teng, Macgyver <br>
+package name: org.xrobot.frameworks <br>
