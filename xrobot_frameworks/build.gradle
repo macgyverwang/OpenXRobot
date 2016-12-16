@@ -1,15 +1,17 @@
-apply plugin: 'com.android.application'
+apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 25
     buildToolsVersion "25.0.1"
+
     defaultConfig {
-        applicationId "org.frameworks.xrobot"
-        minSdkVersion 21
+        minSdkVersion 19
         targetSdkVersion 23
         versionCode 1
         versionName "1.0"
+
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
     }
     buildTypes {
         release {
