@@ -2,8 +2,6 @@
   
  kick off date: 2016.12.15
  
- authors: Jimmy, Teng, Macgyver
- 
  authors: Jimmy, Teng, Macgyver,William
  
  package name: org.xrobot.frameworks
