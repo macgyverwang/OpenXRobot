@@ -2,7 +2,7 @@
 open robot frameworks <br>
 
 kick off date: 2016.12.15 <br>
-authors: Jimmy, Teng, Macgyver <br>
+authors: Jimmy, Teng, Macgyver,William <br>
 package name: org.xrobot.frameworks <br>
 
 
