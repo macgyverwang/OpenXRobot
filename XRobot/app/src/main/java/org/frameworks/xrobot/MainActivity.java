@@ -1,4 +1,4 @@
-package frameworks.xrobot.org.xrobot;
+package org.frameworks.xrobot;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

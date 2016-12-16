@@ -1,4 +1,4 @@
-package frameworks.xrobot.org.xrobot;
+package org.frameworks.xrobot;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package frameworks.xrobot.org.xrobot;
+package org.frameworks.xrobot;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("frameworks.xrobot.org.xrobot", appContext.getPackageName());
+        assertEquals("org.frameworks.xrobot", appContext.getPackageName());
     }
 }
