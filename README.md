@@ -1,11 +1,1 @@
- ## Open Robot Frameworks 
-  
- kick off date: 2016.12.15
- 
- authors: Jimmy, Teng, Macgyver,William
- 
- package name: org.xrobot.frameworks
- 
- ##### mile stone:
- 
- 2017.3.31 :  preview beta
+<div style="font-family: 'Lucida Grande', 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Lucida Sans Unicode', Helvetica, Arial, sans-serif; font-size: 0.9em; overflow-x: hidden; overflow-y: auto; margin: 0px !important; padding: 5px 20px 26px !important; background-color: rgb(255, 255, 255);font-family: 'Hiragino Sans GB', 'Microsoft YaHei', STHeiti, SimSun, 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', 'Segoe UI', AppleSDGothicNeo-Medium, 'Malgun Gothic', Verdana, Tahoma, sans-serif; padding: 20px;padding: 20px; color: rgb(34, 34, 34); font-size: 15px; font-family: 'Roboto Condensed', Tauri, 'Hiragino Sans GB', 'Microsoft YaHei', STHeiti, SimSun, 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', 'Segoe UI', AppleSDGothicNeo-Medium, 'Malgun Gothic', Verdana, Tahoma, sans-serif; line-height: 1.6; -webkit-font-smoothing: antialiased; background: rgb(255, 255, 255);"><h2 id="open-robot-frameworks" style="clear: both;font-size: 1.8em; font-weight: bold; margin: 1.275em 0px 0.85em;margin-top: 0px;border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(230, 230, 230);"><a name="open-robot-frameworks" href="#open-robot-frameworks" style="text-decoration: none; vertical-align: baseline;color: rgb(50, 105, 160);"></a>Open Robot Frameworks</h2><p style="margin-top: 0px;margin: 1em 0px; word-wrap: break-word;"> kick off date: 2016.12.15</p><p style="margin: 1em 0px; word-wrap: break-word;"> authors: Jimmy, Teng, Macgyver,William</p><p style="margin: 1em 0px; word-wrap: break-word;"> package name: org.xrobot.frameworks</p><h5 id="mile-stone:" style="clear: both;font-size: 1.2em; font-weight: bold; margin: 0.855em 0px 0.57em;"><a name="mile-stone:" href="#mile-stone:" style="text-decoration: none; vertical-align: baseline;color: rgb(50, 105, 160);"></a>mile stone:</h5><p style="margin-top: 0px;margin: 1em 0px; word-wrap: break-word;"> 2017.3.31 :  preview beta</p></div>
