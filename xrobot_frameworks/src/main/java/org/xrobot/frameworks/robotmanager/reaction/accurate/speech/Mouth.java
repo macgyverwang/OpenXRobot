@@ -7,26 +7,46 @@ import java.util.Locale;
  */
 
 public abstract class Mouth {
-
     /**
-     * @param word What you want to say in system language.
+     * say the words in system language
+     * @param words What you want to say in system language.
+     * @param queue Immediately or queue
      */
-    public abstract void say(String word);
+    public abstract void say(String words,boolean queue);
 
     /**
+     * say the words in specific language
+     * @param words What you want to say in system language.
      * @param locale say in which language you want to say.
+     * @param queue Immediately or queue
      */
-    public abstract void say(String word, Locale locale);
+    public abstract void say(String words, Locale locale,boolean queue);
 
+    /**
+     * stop saying.
+     */
+    public abstract int stop();
+
+    /**
+     * add callback
+     * @param listener the listener to call back
+     */
+    public abstract void addListener(MouthListener listener);
+
+    /**
+     * remove the callback
+     * @param listener the listener to call back
+     */
+    public abstract void removeListener(MouthListener listener);
 
     public interface MouthListener {
         /**
-         * What you want to say is done
+         * callback when the speaking is done
          */
         void onMouthDone();
 
         /**
-         * What you want to say got error
+         * callback when got error
          * @param error   error number
          * @param message error message
          */
