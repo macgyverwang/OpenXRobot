@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/OpenXRobot.iml" filepath="$PROJECT_DIR$/OpenXRobot.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xrobot_frameworks/xrobot_frameworks.iml" filepath="$PROJECT_DIR$/xrobot_frameworks/xrobot_frameworks.iml" />
     </modules>
   </component>
 </project>
